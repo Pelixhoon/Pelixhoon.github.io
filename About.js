@@ -39,7 +39,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="myunghoon"
-            src="./IMG_2002 2.JPG"
+            src="IMG_2002 2.JPG"
           />
         </div>
       </div>
